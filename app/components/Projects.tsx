@@ -22,12 +22,12 @@ const projects = [
         github: "https://github.com/alessandrocalabro1/ChatBot"
     },
     {
-        title: "CAL Service",
-        description: "Piattaforma premium per servizi di termoidraulica. Design moderno, UX curata e focus sulla conversione.",
-        tags: ["Next.js", "Tailwind CSS", "Local Business"],
+        title: "CalaGames",
+        description: "Hub di giochi arcade e rompicapo sviluppati per il web. Intrattenimento immediato e interfaccia coinvolgente.",
+        tags: ["Game Dev", "React", "Interactive"],
         color: "from-orange-500 to-red-500",
-        link: "https://alessandrocalabro1.github.io/CAL-Service",
-        github: "https://github.com/alessandrocalabro1/CAL-Service"
+        link: "https://alessandrocalabro1.github.io/CalaGames",
+        github: "https://github.com/alessandrocalabro1/CalaGames"
     }
 ];
 
