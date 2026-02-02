@@ -10,16 +10,16 @@ const projects = [
         description: "Applicazione gestionale enterprise basata su SAP UI5. Ottimizzazione flussi e gestione risorse.",
         tags: ["SAP UI5", "Enterprise", "Management"],
         color: "from-blue-600 to-indigo-600",
-        link: "https://alessandrocalabro1.github.io/Gestionale",
-        github: "https://github.com/alessandrocalabro1/Gestionale"
+        link: "https://alessandrocalabro1.github.io/GestionaleTest",
+        github: "https://github.com/alessandrocalabro1/GestionaleTest"
     },
     {
-        title: "ChatBot",
-        description: "Assistente virtuale interattivo per il portfolio. Risponde a domande su skills ed esperienze professionali.",
-        tags: ["React", "AI", "Chat Interface"],
+        title: "CardInvest",
+        description: "Piattaforma di analytics per investimenti in carte collezionabili. Tracking prezzi e portfolio management.",
+        tags: ["Finance", "Data Viz", "UI/UX"],
         color: "from-emerald-500 to-teal-500",
-        link: "https://alessandrocalabro1.github.io/ChatBot",
-        github: "https://github.com/alessandrocalabro1/ChatBot"
+        link: "https://alessandrocalabro1.github.io/CardInvest",
+        github: "https://github.com/alessandrocalabro1/CardInvest"
     },
     {
         title: "CalaGames",
