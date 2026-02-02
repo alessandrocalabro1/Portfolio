@@ -1,9 +1,11 @@
 1:"$Sreact.fragment"
-2:I[68288,["/Portfolio/_next/static/chunks/aa54ae0cf58def41.js"],"default"]
-3:I[89113,["/Portfolio/_next/static/chunks/aa54ae0cf58def41.js"],"default"]
-4:I[71474,["/Portfolio/_next/static/chunks/aa54ae0cf58def41.js"],"default"]
-5:I[31039,["/Portfolio/_next/static/chunks/aa54ae0cf58def41.js"],"default"]
-6:I[42173,["/Portfolio/_next/static/chunks/1d29894e0be62df8.js"],"OutletBoundary"]
-7:"$Sreact.suspense"
-0:{"buildId":"csGJsBOC5CnIPusstzVbx","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-black selection:bg-blue-500/30","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","footer",null,{"className":"py-12 text-center text-zinc-600 border-t border-zinc-900 mt-20 bg-zinc-950","children":[["$","p",null,{"className":"mb-2","children":["© ",2026," Alessandro Calabrò. All rights reserved."]}],["$","p",null,{"className":"text-sm","children":"Built with Next.js, Tailwind & Passion."}]]}]]}],[["$","script","script-0",{"src":"/Portfolio/_next/static/chunks/aa54ae0cf58def41.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
-8:null
+2:I[68288,["/Portfolio/_next/static/chunks/993c73ae25460866.js"],"default"]
+3:I[89113,["/Portfolio/_next/static/chunks/993c73ae25460866.js"],"default"]
+4:I[71474,["/Portfolio/_next/static/chunks/993c73ae25460866.js"],"default"]
+5:I[94580,["/Portfolio/_next/static/chunks/993c73ae25460866.js"],"default"]
+6:I[61223,["/Portfolio/_next/static/chunks/993c73ae25460866.js"],"default"]
+7:I[31039,["/Portfolio/_next/static/chunks/993c73ae25460866.js"],"default"]
+8:I[42173,["/Portfolio/_next/static/chunks/1d29894e0be62df8.js"],"OutletBoundary"]
+9:"$Sreact.suspense"
+0:{"buildId":"x7-5ypOV78zYQCozJTT8p","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-black selection:bg-blue-500/30","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","footer",null,{"className":"py-12 text-center text-zinc-600 border-t border-zinc-900 mt-20 bg-zinc-950","children":[["$","p",null,{"className":"mb-2","children":["© ",2026," Alessandro Calabrò. All rights reserved."]}],["$","p",null,{"className":"text-sm","children":"Built with Next.js, Tailwind & Passion."}]]}]]}],[["$","script","script-0",{"src":"/Portfolio/_next/static/chunks/993c73ae25460866.js","async":true}]],["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],"loading":null,"isPartial":false}
+a:null
