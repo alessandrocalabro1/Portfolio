@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[68288,["/Portfolio/_next/static/chunks/d484f1734054cf14.js"],"default"]
-3:I[89113,["/Portfolio/_next/static/chunks/d484f1734054cf14.js"],"default"]
-4:I[71474,["/Portfolio/_next/static/chunks/d484f1734054cf14.js"],"default"]
-5:I[31039,["/Portfolio/_next/static/chunks/d484f1734054cf14.js"],"default"]
+2:I[68288,["/Portfolio/_next/static/chunks/c22fb8c8139e352d.js"],"default"]
+3:I[89113,["/Portfolio/_next/static/chunks/c22fb8c8139e352d.js"],"default"]
+4:I[71474,["/Portfolio/_next/static/chunks/c22fb8c8139e352d.js"],"default"]
+5:I[31039,["/Portfolio/_next/static/chunks/c22fb8c8139e352d.js"],"default"]
 6:I[42173,["/Portfolio/_next/static/chunks/1d29894e0be62df8.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"cpSxQI2wC1lgzNDzJ2z1j","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-black selection:bg-blue-500/30","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","footer",null,{"className":"py-12 text-center text-zinc-600 border-t border-zinc-900 mt-20 bg-zinc-950","children":[["$","p",null,{"className":"mb-2","children":["© ",2026," Alessandro Calabrò. All rights reserved."]}],["$","p",null,{"className":"text-sm","children":"Built with Next.js, Tailwind & Passion."}]]}]]}],[["$","script","script-0",{"src":"/Portfolio/_next/static/chunks/d484f1734054cf14.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"MNps8T9fYgfy2WG63NBPq","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen bg-black selection:bg-blue-500/30","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","footer",null,{"className":"py-12 text-center text-zinc-600 border-t border-zinc-900 mt-20 bg-zinc-950","children":[["$","p",null,{"className":"mb-2","children":["© ",2026," Alessandro Calabrò. All rights reserved."]}],["$","p",null,{"className":"text-sm","children":"Built with Next.js, Tailwind & Passion."}]]}]]}],[["$","script","script-0",{"src":"/Portfolio/_next/static/chunks/c22fb8c8139e352d.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 8:null
