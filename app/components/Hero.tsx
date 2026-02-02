@@ -22,10 +22,11 @@ export default function Hero() {
                     Alessandro Calabrò
                 </h1>
 
-                <h2 className="text-2xl md:text-4xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-zinc-200 via-zinc-400 to-zinc-600 mb-8">
-                    Organizzo il caos, <br className="hidden md:block" />
-                    costruisco soluzioni.
+                <h2 className="text-2xl md:text-3xl font-semibold text-zinc-300 mb-8 font-mono tracking-wider">
+                    PM JUNIOR <span className="text-zinc-600">|</span> EX SAP UI5/FIORI DEVELOPER
                 </h2>
+
+
 
                 <p className="text-lg md:text-xl text-zinc-400 mb-10 max-w-2xl mx-auto leading-relaxed text-justify md:text-center">
                     PM Junior con background tecnico su progetti su SAP Fiori. Negli ultimi mesi ho affiancato il PM nella gestione operativa della commessa, occupandomi di pianificazione delle attività, coordinamento delle risorse, monitoraggio dell’avanzamento (SAL), gestione delle issue e reporting.

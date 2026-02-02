@@ -2,6 +2,8 @@ import Hero from "./components/Hero";
 import Projects from "./components/Projects";
 import ManagementSkills from "./components/ManagementSkills";
 import WorkHistory from "./components/WorkHistory";
+import TechnicalSkills from "./components/TechnicalSkills";
+import Education from "./components/Education";
 
 export default function Home() {
   return (
@@ -9,6 +11,8 @@ export default function Home() {
       <Hero />
       <ManagementSkills />
       <WorkHistory />
+      <TechnicalSkills />
+      <Education />
       <Projects />
 
       {/* Simple Footer */}
