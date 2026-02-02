@@ -14,12 +14,12 @@ const projects = [
         github: "https://github.com/alessandrocalabro1/GestionaleTest"
     },
     {
-        title: "CardInvest",
-        description: "Piattaforma di analytics per investimenti in carte collezionabili. Tracking prezzi e portfolio management.",
-        tags: ["Finance", "Data Viz", "UI/UX"],
-        color: "from-emerald-500 to-teal-500",
-        link: "https://alessandrocalabro1.github.io/CardInvest",
-        github: "https://github.com/alessandrocalabro1/CardInvest"
+        title: "CalaGames",
+        description: "Hub di giochi arcade e rompicapo sviluppati per il web. Intrattenimento immediato e interfaccia coinvolgente.",
+        tags: ["Game Dev", "React", "Interactive"],
+        color: "from-orange-500 to-red-500",
+        link: "https://alessandrocalabro1.github.io/CalaGames",
+        github: "https://github.com/alessandrocalabro1/CalaGames"
     },
     {
         title: "ChatBot",

@@ -18,17 +18,6 @@ export default function Hero() {
                 transition={{ duration: 0.8 }}
                 className="text-center max-w-4xl mx-auto"
             >
-                <div className="flex justify-center gap-4 mb-8">
-                    <span className="flex items-center gap-2 px-4 py-2 rounded-full bg-blue-500/10 border border-blue-500/20 text-sm md:text-base font-medium text-blue-300 backdrop-blur-sm">
-                        <BarChart3 className="w-4 h-4" />
-                        PM Junior / PMO
-                    </span>
-                    <span className="flex items-center gap-2 px-4 py-2 rounded-full bg-zinc-800/50 border border-zinc-700 text-sm md:text-base font-medium text-zinc-300 backdrop-blur-sm">
-                        <Terminal className="w-4 h-4" />
-                        Technical Background
-                    </span>
-                </div>
-
                 <h1 className="text-5xl md:text-7xl font-bold tracking-tight text-white mb-6">
                     Alessandro Calabrò
                 </h1>
@@ -38,9 +27,10 @@ export default function Hero() {
                     costruisco soluzioni.
                 </h2>
 
-                <p className="text-lg md:text-xl text-zinc-400 mb-10 max-w-2xl mx-auto leading-relaxed">
-                    Unisco la precisione operativa del <strong>PMO</strong> con la concretezza tecnica dello sviluppatore.
-                    Supporto la gestione di commessa, coordino risorse e garantisco che la delivery rispetti qualità e scadenze.
+                <p className="text-lg md:text-xl text-zinc-400 mb-10 max-w-2xl mx-auto leading-relaxed text-justify md:text-center">
+                    PM Junior con background tecnico su progetti su SAP Fiori. Negli ultimi mesi ho affiancato il PM nella gestione operativa della commessa, occupandomi di pianificazione delle attività, coordinamento delle risorse, monitoraggio dell’avanzamento (SAL), gestione delle issue e reporting.
+                    <br /><br />
+                    Lavoro a stretto contatto con il team per chiarire priorità, rimuovere blocchi e mantenere allineati obiettivi e scadenze. Mi sto orientando anche verso la dimensione presales (offerte/gare), dove il mio profilo tecnico è utile per stime e impostazione della delivery.
                 </p>
 
                 <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
