@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { ArrowRight, Terminal, BarChart3, Download } from "lucide-react";
+import { ArrowRight, Terminal, BarChart3 } from "lucide-react";
 
 export default function Hero() {
     return (
@@ -44,15 +44,13 @@ export default function Hero() {
                 </p>
 
                 <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-                    <button className="group relative px-8 py-4 bg-white text-black rounded-full font-semibold hover:bg-zinc-200 transition-all flex items-center gap-2">
+                    <a
+                        href="#projects"
+                        className="group relative px-8 py-4 bg-white text-black rounded-full font-semibold hover:bg-zinc-200 transition-all flex items-center gap-2"
+                    >
                         Esplora il Portfolio
                         <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
-                    </button>
-
-                    <button className="flex items-center gap-2 px-8 py-4 rounded-full border border-zinc-800 text-zinc-300 font-medium hover:bg-zinc-900 transition-all">
-                        <Download className="w-4 h-4" />
-                        Scarica CV
-                    </button>
+                    </a>
                 </div>
             </motion.div>
         </section>

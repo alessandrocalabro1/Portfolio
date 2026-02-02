@@ -22,12 +22,12 @@ const projects = [
         github: "https://github.com/alessandrocalabro1/CardInvest"
     },
     {
-        title: "CalaGames",
-        description: "Hub di giochi arcade e rompicapo sviluppati per il web. Intrattenimento immediato e interfaccia coinvolgente.",
-        tags: ["Game Dev", "React", "Interactive"],
-        color: "from-orange-500 to-red-500",
-        link: "https://alessandrocalabro1.github.io/CalaGames",
-        github: "https://github.com/alessandrocalabro1/CalaGames"
+        title: "ChatBot",
+        description: "Assistente virtuale interattivo che presenta il mio profilo professionale. Un modo divertente per scoprire le mie skills.",
+        tags: ["React", "AI", "Portfolio", "Interactive"],
+        color: "from-purple-600 to-pink-600",
+        link: "https://alessandrocalabro1.github.io/ChatBot",
+        github: "https://github.com/alessandrocalabro1/ChatBot"
     }
 ];
 
