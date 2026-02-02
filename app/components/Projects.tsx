@@ -10,24 +10,24 @@ const projects = [
         description: "Applicazione gestionale enterprise basata su SAP UI5. Ottimizzazione flussi e gestione risorse.",
         tags: ["SAP UI5", "Enterprise", "Management"],
         color: "from-blue-600 to-indigo-600",
-        link: "https://mashfrog.github.io/Gestionale",
-        github: "https://github.com/mashfrog/Gestionale"
+        link: "https://alessandrocalabro1.github.io/Gestionale",
+        github: "https://github.com/alessandrocalabro1/Gestionale"
     },
     {
         title: "ChatBot",
         description: "Assistente virtuale interattivo per il portfolio. Risponde a domande su skills ed esperienze professionali.",
         tags: ["React", "AI", "Chat Interface"],
         color: "from-emerald-500 to-teal-500",
-        link: "https://mashfrog.github.io/ChatBot",
-        github: "https://github.com/mashfrog/ChatBot"
+        link: "https://alessandrocalabro1.github.io/ChatBot",
+        github: "https://github.com/alessandrocalabro1/ChatBot"
     },
     {
         title: "CAL Service",
         description: "Piattaforma premium per servizi di termoidraulica. Design moderno, UX curata e focus sulla conversione.",
         tags: ["Next.js", "Tailwind CSS", "Local Business"],
         color: "from-orange-500 to-red-500",
-        link: "https://mashfrog.github.io/CAL-Service",
-        github: "https://github.com/mashfrog/CAL-Service"
+        link: "https://alessandrocalabro1.github.io/CAL-Service",
+        github: "https://github.com/alessandrocalabro1/CAL-Service"
     }
 ];
 
